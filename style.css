@@ -1,1 +1,53 @@
+body {
+    font-family: sans-serif;
+}
 
+header {
+    background-color:#e047c7;
+    padding:60px
+}
+
+.logo{
+    width: 209px;
+    height: 167px;
+}
+
+nav{
+  margin: 10px; 
+}
+
+nav a {
+   
+}
+
+.main_img{
+    width: 30%;
+    height: 30%;
+}
+
+h1 {
+    font-size: 36px;
+    color:#06d6a0:;
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+
+footer {
+    background-color:#e4ff1a;
+    padding: 5px;
+}
+
+footer p {
+    background-color:#06d6a0;
+    padding: 5px;
+ }
+
+footer a {
+
+}
+
+.center{
+    text-align: center;
+}
