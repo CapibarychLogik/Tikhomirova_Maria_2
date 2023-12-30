@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-color:#e047c7;
+    background-color:#00fbff;
     padding:60px
 }
 
@@ -17,11 +17,16 @@ nav{
 }
 
 nav a {
-   
+      padding: 5px;
+    margin: 5px;
+    border: 1px solid #58a470; 
+    border-radius: 10px;
+    font-size: 21px;
+
 }
 
 .main_img{
-    width: 25%;
+    width: 35%;
     height: 15%;
 }
 
@@ -50,4 +55,8 @@ footer a {
 
 .center{
     text-align: center;
+}
+
+p{
+    font-size: 25px;
 }
